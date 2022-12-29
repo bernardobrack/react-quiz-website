@@ -1,0 +1,13 @@
+.stats-btn {
+    width: 10.4rem;
+    height: 3rem;
+    font-size: 1rem;
+}
+
+.stats-div {
+    display: flex;
+    width:100%;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}

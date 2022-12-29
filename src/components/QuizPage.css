@@ -1,0 +1,15 @@
+.quiz-page-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    color: var(--text-color);    
+}
+
+.check-btn {
+    font-size: 1rem;
+    border-radius: 1rem;
+    width: 12rem;
+    height: 3.5rem;
+}

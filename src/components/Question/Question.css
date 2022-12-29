@@ -1,0 +1,28 @@
+.question-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
+}
+.question {
+    max-width: 40rem;
+    text-align:center;
+}
+.question-btn {
+    font-size: 1.024rem;
+    font-weight: bold;
+    box-sizing: content-box;
+    height: 1.5rem;
+    color: var(--text-color);
+    border: solid 0.1rem var(--text-color);
+    padding: 0.2rem 1rem;
+}
+.question-btn.light-purple-btn {
+    border: solid 0.1rem var(--white-color);
+}
+
+.question-buttons-div {
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+}
